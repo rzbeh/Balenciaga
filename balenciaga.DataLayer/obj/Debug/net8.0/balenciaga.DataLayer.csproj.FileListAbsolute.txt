@@ -1,0 +1,14 @@
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\bin\Debug\net8.0\balenciaga.DataLayer.deps.json
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\bin\Debug\net8.0\balenciaga.DataLayer.runtimeconfig.json
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\bin\Debug\net8.0\balenciaga.DataLayer.dll
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\bin\Debug\net8.0\balenciaga.DataLayer.pdb
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\balenciaga.DataLayer.csproj.AssemblyReference.cache
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\balenciaga.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\balenciaga.DataLayer.AssemblyInfoInputs.cache
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\balenciaga.DataLayer.AssemblyInfo.cs
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\balenciaga.DataLayer.csproj.CoreCompileInputs.cache
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\balenciaga.DataLayer.dll
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\refint\balenciaga.DataLayer.dll
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\balenciaga.DataLayer.pdb
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\balenciaga.DataLayer.genruntimeconfig.cache
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.DataLayer\obj\Debug\net8.0\ref\balenciaga.DataLayer.dll
