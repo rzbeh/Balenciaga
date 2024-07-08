@@ -1,0 +1,17 @@
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\bin\Debug\net8.0\balenciaga.Core.deps.json
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\bin\Debug\net8.0\balenciaga.Core.runtimeconfig.json
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\bin\Debug\net8.0\balenciaga.Core.dll
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\bin\Debug\net8.0\balenciaga.Core.pdb
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\bin\Debug\net8.0\balenciaga.DataLayer.dll
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\bin\Debug\net8.0\balenciaga.DataLayer.pdb
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.csproj.AssemblyReference.cache
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.AssemblyInfoInputs.cache
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.AssemblyInfo.cs
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.csproj.CoreCompileInputs.cache
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.csproj.CopyComplete
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.dll
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\refint\balenciaga.Core.dll
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.pdb
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\balenciaga.Core.genruntimeconfig.cache
+D:\c#\Asp.Net\Projects\CodeReview\balenciagashop\balenciaga.Core\obj\Debug\net8.0\ref\balenciaga.Core.dll
