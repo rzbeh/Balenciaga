@@ -1,0 +1,75 @@
+﻿@using balenciaga.Core.Convertors
+@using balenciaga.Core.DTOs
+@model balenciaga.Core.DTOs.ChargeWalletViewModel
+@{
+    ViewData["Title"] = "  yore wallet";
+}
+
+<main>
+    <div class="container">
+        <div class="user-account">
+            <div class="row">
+                <partial name="_SideBar" />
+                <div class="col-md-9 col-sm-8 col-xs-12">
+                    <section class="user-account-content">
+                        <header><h1> youre wallet </h1></header>
+                        <div class="inner form-layer">
+                            <form asp-action="Index" method="post">
+                                <div class="row">
+                                    <div class="col-md-7 col-sm-8 col-xs-12">
+                                        <div class="input-group">
+                                            <span class="input-group-addon" id="username"><i class="zmdi zmdi-balance-wallet"></i></span>
+                                            <input type="number" class="form-control" asp-for="Amount" placeholder="amount">
+                                        </div>
+                                    </div>
+                              
+                                    <div class="text-danger" asp-validation-summary="All"></div>
+                                    <div class="col-md-7 col-sm-8 col-xs-12">
+                                        <button class="btn btn-success"> charge wallet </button>
+                                    </div>
+                                </div>
+                            </form>
+                            <hr/>
+                            @{
+                                List<WalletViewModel> list = ViewBag.ListWallet as List<WalletViewModel>;
+                            }
+                            <table class="table table-bordered">
+                                <tr>
+                                    <th>amount</th>
+                                    <th>date</th>
+                                    <th>type </th>
+                                    <th>Description</th>
+                                </tr>
+                                @foreach (var item in list)
+                                {
+                                    <tr>
+                                        <td>@item.Amount.ToString("#,0 $")</td>
+                                        <td>
+                                            @item.DateTime
+                                        </td>
+                                        <td>
+                                            @if (item.Type == 1)
+                                            {
+                                                <p class="text-success">
+                                                    Deposit to the account
+
+                                                </p>
+                                            }
+                                            else
+                                            {
+                                                <p class="text-danger">withdraw from account</p>
+                                            }
+                                        </td>
+                                        <td>
+                                            @item.Description
+                                        </td>
+                                    </tr>
+                                }
+                            </table>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

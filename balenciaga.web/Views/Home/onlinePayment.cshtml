@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "online payment";
+}
+
+
+
+
+
+<div class="container">
+    @if (ViewBag.IsSuccess == true)
+    {
+        <div class="alert alert-danger">
+            <h2>
+                Payment failed
+            </h2>
+
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-success">
+            <h2>
+                Payment was successful
+            </h2>
+            <p>
+                Tracking Code
+                : @ViewBag.Code
+            </p>
+        </div>
+       
+    }
+</div>

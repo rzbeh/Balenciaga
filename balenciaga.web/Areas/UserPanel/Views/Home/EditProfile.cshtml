@@ -1,0 +1,67 @@
+﻿@model balenciaga.Core.DTOs.EditProfileViewModel
+@{
+    ViewData["Title"] = "Edit Profile";
+}
+
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Balenciaga Shop</a></li>
+            <li class="breadcrumb-item active" aria-current="page"> Edit Profile </li>
+        </ul>
+    </nav>
+</div>
+
+<main>
+    <div class="container">
+        <div class="user-account">
+            <div class="row">
+                <partial name="_SideBar" />
+                <div class="col-md-9 col-sm-8 col-xs-12">
+                    <section class="user-account-content">
+                        <header><h1> Edit Profile </h1></header>
+                        <div class="inner form-layer">
+                            <form asp-action="EditProfile" method="post" enctype="multipart/form-data">
+                              @if (ViewBag.IsSuccess != null)
+                              {
+                                  <div class="alert alert-success">
+                                     edit done
+                                  </div>
+                              }
+
+                                <input type="hidden" asp-for="AvatarName"/>
+                                <div class="row">
+                                    <div class="col-md-7 col-sm-8 col-xs-12">
+                                        <div class="input-group">
+                                            <span class="input-group-addon" id="username"><i class="zmdi zmdi-account"></i></span>
+                                            <input type="text" class="form-control" asp-for="UserName" placeholder=" User Name" aria-describedby="username">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7 col-sm-8 col-xs-12">
+                                        <div class="input-group">
+                                            <span class="input-group-addon" id="email-address"><i class="zmdi zmdi-email"></i></span>
+                                            <input type="text" class="form-control" asp-for="Email" placeholder="Email" aria-describedby="email-address">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7 col-sm-8 col-xs-12">
+                                        <p class="help-block">
+                                            Avatar
+                                        </p>
+                                        <input type="file" asp-for="UserAvatar"/>
+                                        <p>plaese choose avatar</p>
+                                        <img class="thumbnail" src="/UserAvatar/@Model.AvatarName" style="max-width: 150px"/>
+                                    </div>
+                                    <div class="col-md-7 col-sm-8 col-xs-12">
+                                        <button class="btn btn-success"> Save </button>
+                                    </div>
+                                </div>
+
+                            </form>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+

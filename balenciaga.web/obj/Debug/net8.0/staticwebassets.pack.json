@@ -1,0 +1,733 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\css\\plugins\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\timeline\\timeline.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\css\\sb-admin.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\sb-admin.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\demo\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\dashboard-demo.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\demo\\flot-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\flot-demo.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\demo\\morris-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\morris-demo.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\AdminContent\\js\\sb-admin.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\sb-admin.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\002df635a4d340d4b38ed08bf6418f40.jfif",
+      "PackagePath": "staticwebassets\\UserAvatar\\002df635a4d340d4b38ed08bf6418f40.jfif"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\0e22ee51060b42a8a6a4d31477e4ce58.png",
+      "PackagePath": "staticwebassets\\UserAvatar\\0e22ee51060b42a8a6a4d31477e4ce58.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\37619d4e2df545e297082b92dfb2f65c.jfif",
+      "PackagePath": "staticwebassets\\UserAvatar\\37619d4e2df545e297082b92dfb2f65c.jfif"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\3f6743150c70489c97caccdf363de14d.png",
+      "PackagePath": "staticwebassets\\UserAvatar\\3f6743150c70489c97caccdf363de14d.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\Avatar.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\Avatar.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\a5371739824d4201be0c020fb5a472ee.jfif",
+      "PackagePath": "staticwebassets\\UserAvatar\\a5371739824d4201be0c020fb5a472ee.jfif"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\a6829b9fdffd4d2895c4101b37149059.jfif",
+      "PackagePath": "staticwebassets\\UserAvatar\\a6829b9fdffd4d2895c4101b37149059.jfif"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\b095cabe3b9b40658ce9a5a54881cd27.png",
+      "PackagePath": "staticwebassets\\UserAvatar\\b095cabe3b9b40658ce9a5a54881cd27.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\ce7b36f714db43caa6c2a6a0c40c77a8.jfif",
+      "PackagePath": "staticwebassets\\UserAvatar\\ce7b36f714db43caa6c2a6a0c40c77a8.jfif"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\d2112c2fd00d48dc9a2e188d3c98c892.jfif",
+      "PackagePath": "staticwebassets\\UserAvatar\\d2112c2fd00d48dc9a2e188d3c98c892.jfif"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\e010308c45324ca2b5dc670705cdb26b.png",
+      "PackagePath": "staticwebassets\\UserAvatar\\e010308c45324ca2b5dc670705cdb26b.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\UserAvatar\\ed381234ed464ba7b99dd19d5c68af13.jfif",
+      "PackagePath": "staticwebassets\\UserAvatar\\ed381234ed464ba7b99dd19d5c68af13.jfif"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\CustomCss.css",
+      "PackagePath": "staticwebassets\\css\\CustomCss.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\fonts\\BYekan-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.eot"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\fonts\\BYekan-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.ttf"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\fonts\\BYekan-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.woff"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\m.png",
+      "PackagePath": "staticwebassets\\images\\m.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\1009.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\1009.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\1011.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\1011.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\3.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\4.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\5.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\6.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\7.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\8.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\big-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\big-thumb.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\g.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\g.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\h.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\h.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\namad-1.png",
+      "PackagePath": "staticwebassets\\images\\pic\\namad-1.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\namad.png",
+      "PackagePath": "staticwebassets\\images\\pic\\namad.png"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\p.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\p.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\pic\\t.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\t.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\images\\slide.jpg",
+      "PackagePath": "staticwebassets\\images\\slide.jpg"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-custom.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\c#\\Asp.Net\\Projects\\CodeReview\\balenciagashop\\balenciaga.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.balenciaga.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.balenciaga.web.props",
+      "PackagePath": "build\\balenciaga.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.balenciaga.web.props",
+      "PackagePath": "buildMultiTargeting\\balenciaga.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.balenciaga.web.props",
+      "PackagePath": "buildTransitive\\balenciaga.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

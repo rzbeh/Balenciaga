@@ -1,0 +1,47 @@
+﻿@model balenciaga.Core.DTOs.RegisterViewModel
+@{
+    ViewData["Title"] = "sign in";
+}
+
+
+<main class="client-page">
+    <div class="container-content">
+
+        <header><h2>Join Club </h2></header>
+
+        <div class="form-layer">
+
+            <form asp-action="Register" method="post">
+
+                <div class="input-group">
+                    <span class="input-group-addon" id="username"><i class="zmdi zmdi-account"></i></span>
+                    <input asp-for="UserName" type="text" class="form-control" placeholder="fULL name" aria-describedby="username">
+                </div>
+
+                <div class="input-group">
+                    <span class="input-group-addon" id="email-address"><i class="zmdi zmdi-email"></i></span>
+                    <input asp-for="Email" type="text" class="form-control" placeholder="Email" aria-describedby="email-address">
+                </div>
+
+                <div class="input-group">
+                    <span class="input-group-addon" id="password"><i class="zmdi zmdi-lock"></i></span>
+                    <input asp-for="Password" type="password" class="form-control" placeholder="Password  " aria-describedby="password">
+                </div>
+
+                <div class="input-group">
+                    <span class="input-group-addon" id="password"><i class="zmdi zmdi-lock"></i></span>
+                    <input asp-for="RePassword" type="password" class="form-control" placeholder="R-Password " aria-describedby="password">
+                </div>
+
+                <div class="link">
+                    <a href="/Login"> <i class="zmdi zmdi-account"></i> enter web </a>
+                </div>
+                <div asp-validation-summary="All" class="text-danger">
+                </div>
+                <button class="btn btn-success"> Join </button>
+
+            </form>
+        </div>
+
+    </div>
+</main>

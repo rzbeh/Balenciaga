@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Active";
+}
+
+
+<div class="container">
+    @if (ViewBag.IsActive)
+    {
+        <div class="alert alert-success">
+            <p>youre account is active successfull</p>
+            <p>
+                <a href="/Login">login</a>
+            </p>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            <p>user undefinded</p>
+        </div>
+    }
+</div>  

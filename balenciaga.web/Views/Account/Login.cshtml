@@ -1,0 +1,52 @@
+﻿@model balenciaga.Core.DTOs.loginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<main class="client-page">
+    <div class="container-content">
+        @if (ViewBag.IsSuccess != null)
+        {
+            <div class="alert alert-success">
+                <p class="help-block">Success Login</p>
+            </div>
+
+            <script>
+                // Your delay in milliseconds
+                var delay = 3000;
+                setTimeout(function () { window.location = "https://localhost:7022/userpanel"; }, delay);
+            </script>
+        }
+        <header><h2> Login </h2></header>
+
+        <div class="form-layer">
+
+            <form asp-action="Login" method="post">
+
+                <div class="input-group">
+                    <span class="input-group-addon" id="email-address"><i class="zmdi zmdi-email"></i></span>
+                    <input asp-for="Email" type="text" class="form-control" placeholder="Email" aria-describedby="email-address">
+
+                </div>
+                <span asp-validation-for="Email"></span>
+                <div class="input-group">
+                    <span class="input-group-addon" id="password"><i class="zmdi zmdi-lock"></i></span>
+                    <input asp-for="Password" type="password" class="form-control" placeholder="Password " aria-describedby="password">
+
+                </div>
+                <span asp-validation-for="Password"></span>
+             
+
+                <div class="link">
+                    <a href="/ForgotPassword"> <i class="zmdi zmdi-lock"></i> I forgot my password</a>
+                    <a href="/Register"> <i class="zmdi zmdi-account"></i> join club </a>
+                </div>
+
+                <button class="btn btn-success"> lets go </button>
+
+            </form>
+        </div>
+
+    </div>
+</main>

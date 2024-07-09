@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html class="no-js"  lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> B-SHOP | @ViewData["Title"] </title>
+    <partial name="_MetaTags" />
+    <partial name="_Styles" />
+    <script src="/js/jquery.min.js"></script>
+</head>
+<body>
+    <script src="/js/modernizr-custom.js"></script>
+
+    <div class="landing-layer">
+        <div class="container">
+            <nav>
+                <div class="row">
+                    <div class="col-sm-6 col-xs-12">
+                        <ul>
+                            <li>
+                               S
+                                <a href="">About us </a>
+                                <a href=""> Contact </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="clientarea">
+
+
+
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <div class="loggein">
+                                    <i class="zmdi zmdi-account"></i><a href="/UserPanel"> Hi @User.Identity.Name </a>
+                                    /
+                                    <a href="/logout"> Log Out </a>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="signin">
+                                    <i class="zmdi zmdi-account"></i>
+                                    <a href="/Login"> LOG IN </a> /
+                                    <a href="/Register"> SIGN IN </a>
+                                </div>
+                            }
+                        
+
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        @RenderSection("SearchBox",false)
+        </div>
+    </div>
+
+    <!-- main manu -->
+    <partial name="_MainMenu" />
+    <!-- /main manu -->
+    <!-- content -->
+   @RenderBody()
+    <!-- /content -->
+    <!-- footer -->
+    <partial name="_Footer" />
+    <!-- /footer -->
+
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/script.js"></script>
+</body>
+</html>
